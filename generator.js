@@ -1,0 +1,25 @@
+export const verbs = [
+    "fall in love",
+    "die",
+    "get git by a car",
+    "get married",
+    "become a billionaire",
+    "receive true love's kiss",
+    "have a really bad hair day",
+    "have a bad skin day ",
+    "look like Shrek today",
+    "have a dance party",
+    "get a good grade on a test",
+    "get $100",
+    "get a zit",
+    " be broken up with",
+    "show your best dance moves in front of your crush",
+    "laugh",
+    "eat McDonalds",
+    "eat cake",
+    "sleep for 24 hours",
+    "cut your toe on something sharp",
+    "step on a lego",
+    "eat at a fancy restaurnt"
+
+]
